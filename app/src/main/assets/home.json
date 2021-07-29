@@ -1,0 +1,296 @@
+{
+   "components":[
+      {
+         "type":"exhibitors",
+         "track":{
+            "c_id":"/home/exhibitors"
+         },
+         "elements":[
+            {
+               "picture":{
+                  "url":{
+                     "src":"https://http2.mlstatic.com/resources/deals/exhibitors_resources/mla-home-feed-mobile-native-big-banner-header-background-url-landscape-300x-773ef349-56fd-4d69-847a-8642df88f1fa.jpg"
+                  }
+               },
+               "permalink":"meli://item?id=MCO558127278#sellerid=246921944&banner_name=ADV_CLARO_GALAXYA51_MS_1&c_id=/home/exhibitors/element&c_campaign=item%3Fid%3DMCO558127278&c_element_order=0&c_uid=66eee9f6-63f3-45c3-b103-25fe8656c2ac",
+               "track":{
+                  "c_id":"/home/exhibitors/element",
+                  "c_original_target":"meli://item?id=MCO558127278#sellerid=246921944&banner_name=ADV_CLARO_GALAXYA51_MS_1",
+                  "c_element_order":0,
+                  "c_campaign":"item?id=MCO558127278"
+               }
+            },
+            {
+               "picture":{
+                  "url":{
+                     "src":"https://http2.mlstatic.com/resources/deals/exhibitors_resources/mco-home-feed-mobile-native-big-banner-header-background-url-landscape-100x-18a8e27b-86ee-4703-82b0-7cadb0ccbba2.jpg"
+                  }
+               },
+               "permalink":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/celulares-y-telefonos#DEAL_ID=&S=MKT&V=2&T=MS&L=especial_celulares&c_id=/home/exhibitors/element&c_campaign=especial_celulares&c_element_order=1&c_uid=0ce3cbb9-df33-4ed6-824e-136eb42d89e8",
+               "track":{
+                  "c_id":"/home/exhibitors/element",
+                  "c_original_target":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/celulares-y-telefonos#DEAL_ID=&S=MKT&V=2&T=MS&L=especial_celulares",
+                  "c_element_order":1,
+                  "c_campaign":"especial_celulares"
+               }
+            },
+            {
+               "picture":{
+                  "url":{
+                     "src":"https://http2.mlstatic.com/resources/deals/exhibitors_resources/mco-home-feed-mobile-native-big-banner-header-background-url-landscape-100x-a36ca764-285e-4c29-b2f3-73225087d0b8.jpg"
+                  }
+               },
+               "permalink":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/electronica-audio-y-video#DEAL_ID=&S=MKT&V=3&T=MS&L=especial_eav&c_id=/home/exhibitors/element&c_campaign=especial_eav&c_element_order=2&c_uid=9e9c9a63-ac9b-4623-970e-7f8569f2bbfb",
+               "track":{
+                  "c_id":"/home/exhibitors/element",
+                  "c_original_target":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/electronica-audio-y-video#DEAL_ID=&S=MKT&V=3&T=MS&L=especial_eav",
+                  "c_element_order":2,
+                  "c_campaign":"especial_eav"
+               }
+            },
+            {
+               "picture":{
+                  "url":{
+                     "src":"https://http2.mlstatic.com/resources/deals/exhibitors_resources/mco-home-feed-mobile-native-big-banner-header-background-url-landscape-100x-adefe56c-ed87-486f-a1b6-5985e77c18e0.jpg"
+                  }
+               },
+               "permalink":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/computacion#DEAL_ID=&S=MKT&V=4&T=MS&L=especial_computacion&c_id=/home/exhibitors/element&c_campaign=especial_computacion&c_element_order=3&c_uid=a84af32a-8ec7-4a42-8c64-4ed444273981",
+               "track":{
+                  "c_id":"/home/exhibitors/element",
+                  "c_original_target":"meli://generic_landing?url=https://www.mercadolibre.com.co/c/computacion#DEAL_ID=&S=MKT&V=4&T=MS&L=especial_computacion",
+                  "c_element_order":3,
+                  "c_campaign":"especial_computacion"
+               }
+            },
+            {
+               "picture":{
+                  "url":{
+                     "src":"https://http2.mlstatic.com/resources/deals/exhibitors_resources/mco-home-feed-mobile-native-big-banner-header-background-url-landscape-100x-453a99eb-17c0-4c6d-83f3-b0ab973900e9.jpg"
+                  }
+               },
+               "permalink":"meli://generic_landing?url=https://www.mercadolibre.com.co/ofertas/dia-del-nino#DEAL_ID=MCO2605&S=MKT&V=5&T=MS&L=especial_diadelnino&c_id=/home/exhibitors/element&c_campaign=especial_diadelnino&c_element_order=4&c_uid=6e37cda6-9db7-451d-a649-912c2df2ae61",
+               "track":{
+                  "c_id":"/home/exhibitors/element",
+                  "c_original_target":"meli://generic_landing?url=https://www.mercadolibre.com.co/ofertas/dia-del-nino#DEAL_ID=MCO2605&S=MKT&V=5&T=MS&L=especial_diadelnino",
+                  "c_element_order":4,
+                  "c_campaign":"especial_diadelnino"
+               }
+            }
+         ],
+         "autoplay":false,
+         "timer":0
+      },
+      {
+         "id": "promotions-recommendations",
+         "type": "recommendations",
+         "track": {
+            "c_id": "/home/promotions-recommendations"
+         },
+         "header": {
+            "title": {
+               "text": "Ofertas",
+               "color": "black"
+            }
+         },
+         "items": [
+            {
+               "id": "MCO558338513",
+               "track": {
+                  "c_id": "/home/promotions-recommendations/element",
+                  "c_element_order": 1
+               },
+               "title": "Televisor LG 43lm6300 Led Fhd - Active Hdr Smart Tv",
+               "permalink": "meli://items-core/MCO558338513/#reco_item_pos=0&reco_backend=promotions-sorted-by-score-mco-B&reco_backend_type=low_level&reco_client=home_seller-promotions-recommendations&reco_id=3fcfd05f-6f39-4759-84cb-cab7b6e29d27&c_id=/home/promotions-recommendations/element&c_element_order=1&c_uid=c1e694b7-83b2-4a29-9ad3-c1e1988e8d5a",
+               "price": {
+                  "value": 1195900,
+                  "original_value": 1649900,
+                  "currency_symbol": "$"
+               },
+               "label1": {
+                  "color": "green_primary"
+               },
+               "label2": {
+                  "text": "Envío gratis",
+                  "color": "green_primary"
+               },
+               "discount": {
+                  "text": "27% OFF",
+                  "color": "green_primary"
+               },
+               "picture": {
+                  "id": "722964-MCO45063823025_032021",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_2X_747015-MCO43704613704_102020-F.webp"
+               }
+            },
+            {
+               "id": "MCO613405741",
+               "track": {
+                  "c_id": "/home/promotions-recommendations/element",
+                  "c_element_order": 2
+               },
+               "title": "Maquina Pulverizadora Para Pintar  Klatter",
+               "permalink": "meli://items-core/MCO613405741/?variation=79738885215#reco_item_pos=1&reco_backend=promotions-sorted-by-score-mco-B&reco_backend_type=low_level&reco_client=home_seller-promotions-recommendations&reco_id=3fcfd05f-6f39-4759-84cb-cab7b6e29d27&c_id=/home/promotions-recommendations/element&c_element_order=2&c_uid=12741017-82bf-4e2f-a083-665eec5a3e0d",
+               "price": {
+                  "value": 124900,
+                  "original_value": 149900,
+                  "currency_symbol": "$"
+               },
+               "label1": {
+                  "color": "green_primary"
+               },
+               "label2": {
+                  "text": "Envío gratis",
+                  "color": "green_primary"
+               },
+               "label2_icon": "home_green-fulfillment",
+               "discount": {
+                  "text": "16% OFF",
+                  "color": "green_primary"
+               },
+               "picture": {
+                  "id": "838717-MCO45331202648_032021",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_2X_831013-MCO46468786096_062021-F.webp"
+               }
+            },
+            {
+               "id": "MCO468795741",
+               "track": {
+                  "c_id": "/home/promotions-recommendations/element",
+                  "c_element_order": 3
+               },
+               "title": "Audífonos Bluetooth Deportivos U8 Anti Sudor Original Nuevo",
+               "permalink": "meli://items-core/MCO468795741/?variation=33721746167#reco_item_pos=2&reco_backend=promotions-sorted-by-score-mco-B&reco_backend_type=low_level&reco_client=home_seller-promotions-recommendations&reco_id=3fcfd05f-6f39-4759-84cb-cab7b6e29d27&c_id=/home/promotions-recommendations/element&c_element_order=3&c_uid=104ed7db-480c-42e0-80da-b95572372fc7",
+               "price": {
+                  "value": 44910,
+                  "original_value": 49900,
+                  "currency_symbol": "$"
+               },
+               "label1": {
+                  "color": "green_primary"
+               },
+               "label2_icon": "home_green-fulfillment",
+               "discount": {
+                  "text": "10% OFF",
+                  "color": "green_primary"
+               },
+               "picture": {
+                  "id": "989524-MCO45356081682_032021",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_917701-MCO43806902435_102020-F.webp"
+               }
+            },
+            {
+               "id": "MCO515515032",
+               "track": {
+                  "c_id": "/home/promotions-recommendations/element",
+                  "c_element_order": 4
+               },
+               "title": "Faja Moldeadora Xd / Cinturilla De Avispa Xd",
+               "permalink": "meli://items-core/MCO515515032/#reco_item_pos=3&reco_backend=promotions-sorted-by-score-mco-B&reco_backend_type=low_level&reco_client=home_seller-promotions-recommendations&reco_id=3fcfd05f-6f39-4759-84cb-cab7b6e29d27&c_id=/home/promotions-recommendations/element&c_element_order=4&c_uid=196d2e9f-2788-4913-922d-e50aa06d5b5d",
+               "price": {
+                  "value": 51290,
+                  "original_value": 53990,
+                  "currency_symbol": "$"
+               },
+               "label1": {
+                  "color": "green_primary"
+               },
+               "label2": {
+                  "text": "Envío gratis",
+                  "color": "green_primary"
+               },
+               "label2_icon": "home_green-fulfillment",
+               "discount": {
+                  "text": "5% OFF",
+                  "color": "green_primary"
+               },
+               "picture": {
+                  "id": "847510-MCO31354440617_072019",
+                  "url": "https://http2.mlstatic.com/D_NQ_NP_662611-MCO43156760497_082020-F.webp"
+               }
+            }
+         ],
+         "action": {
+            "label": {
+               "text": "Ver todas",
+               "color": "blue"
+            },
+            "target": "meli://generic_landing?url=https://www.mercadolibre.com.co/ofertas#c_id=/home/promotions-recommendations/element&c_uid=cb72e8ca-015e-4dc5-8296-06a3330a470f"
+         },
+         "render": "mosaic",
+         "reco_track": {
+            "event_data": {
+               "recommendations": {
+                  "model_version": "1.0",
+                  "model_id": "promotions-sorted-by-score",
+                  "recommended_items": [
+                     {
+                        "id": "MCO558338513"
+                     },
+                     {
+                        "id": "MCO613405741"
+                     },
+                     {
+                        "id": "MCO468795741"
+                     },
+                     {
+                        "id": "MCO515515032"
+                     }
+                  ],
+                  "backend_id": "MCO-today-promotions-backend-api"
+               }
+            },
+            "experiments": [
+               {
+                  "name": "recommendations/prueba-promotions-MCO",
+                  "variant_id": 5531
+               }
+            ]
+         }
+      }
+   ],
+   "picture_config":{
+      "template_seed":"https://http2.mlstatic.com/S_Q_NP_2X_{id}-V.webp",
+      "template_list":"https://http2.mlstatic.com/S_Q_NP_2X_{id}-G.webp",
+      "template_mosaic":"https://http2.mlstatic.com/S_Q_NP_2X_{id}-N.webp",
+      "template_icon":"https://http2.mlstatic.com/resources/frontend/homes-korriban/assets/icons/xhdpi/{id}.png"
+   },
+   "site_config":{
+      "decimal_places":2,
+      "decimal_separator":",",
+      "thousand_separator":".",
+      "exhibitor_size_ratio":0.46
+   },
+   "track":{
+      "path":"/component",
+      "melidata_stream":"component_prints",
+      "page_view":{
+         "melidata_event":{
+            "path":"/home",
+            "event_data":{
+               "mp_installed":false,
+               "newbie":true,
+               "home_version":"new",
+               "is_logged":false,
+               "component_count":11
+            },
+            "experiments":{
+               "home/partnerContentSubscriptions":"4189",
+               "home/backend-dummy":"3093",
+               "recommendations/prueba-promotions-MCO":"5531"
+            }
+         },
+         "analytics_event":{
+            "path":"/HOME/MAIN/",
+            "custom_dimensions":{
+               "25":"{\"home/partnerContentSubscriptions\":\"4189\",\"home/backend-dummy\":\"3093\",\"recommendations/prueba-promotions-MCO\":\"5531\"}"
+            }
+         }
+      },
+      "melidata_experiments":[
+         
+      ]
+   },
+   "unsuccessful_reco_tracks":[
+      
+   ]
+}

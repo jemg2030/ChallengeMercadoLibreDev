@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChallengeMercadoLibreDev</string>
+    <string name="user_info">Enviar a Federico Fernando Ramirez - CARRE...</string>
+    <string name="textView_product_name">Audifonos In-ear JBL Tune 110 black</string>
+    <string name="textView_price">$ 59.699</string>
+    <string name="textView_discount">40% OFF</string>
+    <string name="textView_fees">en 36x $ 1.658</string>
+    <string name="textView_Seller">Vendido por JBL</string>
+    <string name="textView_counter_rating">1182</string>
+    <string name="textView_menu_product">Producto</string>
+    <string name="textView_state_product">Nuevo</string>
+    <string name="textView_divider">|</string>
+    <string name="textView_sales_counter">9333 vendidos</string>
+    <string name="textView_used_state">Envio gratis</string>
+    <string name="button_buy">Comprar ahora</string>
+    <string name="reminder">Vistos Recientemente</string>
+    <string name="not_found_title">No encontramos publicaciones</string>
+    <string name="not_found_body">Revisa que la palabra este bien escrita.</string>
+    <string name="new_state">Nuevo</string>
+    <string name="used_state">Usado</string>
+</resources>
